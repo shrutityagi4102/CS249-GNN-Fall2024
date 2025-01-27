@@ -1,2 +1,6 @@
-# CS249-GNN-Fall2024
+# Graph Neural Networks (GNNs) for Breast Cancer Detection
+
 Survey on Applications of Graph Neural Networks (GNNs) for Breast Cancer Detection ; CS 249 GNNs for AI Driven Scientific Discovery
+
+Abstract: Breast cancer remains a major global health concern, necessitating accurate and early detection. While traditional methods have made significant strides, challenges such as the complexity of biological data and the need for more accurate and per- sonalized treatments persist. Graph Neural Networks (GNNs), a powerful class of deep learning models, offer a promising approach to address these challenges. This survey explores the application of GNNs in breast cancer research, focusing on key tasks like binary classification, gene subtype classification, and molecular subtype classification. By leveraging the ability of GNNs to model complex rela- tionships between data points, researchers have made significant advancements in improving diagnostic accuracy and treatment planning. However, challenges such as data availability, model interpretability, and computational efficiency remain. Future research should focus on developing more sophisticated GNN architectures, integrating multi-modal data, and fostering collaboration between researchers and clinicians to translate these advancements into clinical practice.
+
